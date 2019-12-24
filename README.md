@@ -90,7 +90,7 @@ class Program
 ```
 # Tekrarlayıcı (Iterator) Tasarım Deseni
 
-  Nesne tabanlı dillerde uygulama geliştirilirken en sık kullanılan yapılardan biri de koleksiyonlardır.  Iterator(#iterator) tasarım deseni koleksiyon yapısı bilinmesine ihtiyaç olmadan koleksiyon elemanları üzerinde işlem yapılabilmesini sağlar. Iterator tasarım deseni kullanılarak koleksiyonun array, queue, list olmasınin bir önemi olmadan, koleksiyon elemanlarının aynı şekilde elde edilmesi sağlanır. Koleksiyon içindeki nesnelerin nasıl elde edileceği tercihe göre belirlenebilir. Iterator tasarım deseni için uml diyagramı aşağıdaki gibidir.
+  Nesne tabanlı dillerde uygulama geliştirilirken en sık kullanılan yapılardan biri de koleksiyonlardır.  Iterator tasarım deseni koleksiyon yapısı bilinmesine ihtiyaç olmadan koleksiyon elemanları üzerinde işlem yapılabilmesini sağlar. Iterator tasarım deseni kullanılarak koleksiyonun array, queue, list olmasınin bir önemi olmadan, koleksiyon elemanlarının aynı şekilde elde edilmesi sağlanır. Koleksiyon içindeki nesnelerin nasıl elde edileceği tercihe göre belirlenebilir. Iterator tasarım deseni için uml diyagramı aşağıdaki gibidir.
 
 ![Image of Class](https://github.com/okcain/yazilim-mimarisi-ve-tasarimi/blob/master/iterator_uml.jpg)
 
