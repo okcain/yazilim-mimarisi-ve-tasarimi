@@ -23,7 +23,7 @@ Yazılım Mimarisi ve Tasarımı proje ödevi
 
    Senaryomuz şu şekilde olsun. sistem1 ve sistem2 adında üyelik modülünün olduğu 2 sistemimiz var. sistem2 ye üye olunacağında sistem1 de kara listede olup olmadığını ve kimlik numarasının doğru olup olmadığını kontrol edip üyeliği buna göre kabul ediyoruz.
 
-```java
+```C#
 public class Sistem1Kontrol
 {
     public bool KaraListeKontrol(string Tc)
