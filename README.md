@@ -34,7 +34,7 @@ public class Sistem1Kontrol
 }
 ```
 
-```java
+```C#
 public class Sistem2Operations
 {
     public void UyeEkle(string Tc)
@@ -44,7 +44,7 @@ public class Sistem2Operations
 }
 ```
 
-```java
+```C#
 public class TcKimlikSistem
 {
     public bool Kontrol(string Tc)
@@ -57,7 +57,7 @@ public class TcKimlikSistem
 
   Alt sistemlerin tanımlanmasının ardından facade sınıfımızı oluşturuyoruz.
 
-```java
+```C#
 public class Facade
 {
     //constructor da oluşturulabilir
@@ -77,7 +77,7 @@ public class Facade
 
   Ardından Facade sınıfımızı Main sınıfımıza bağlıyoruz. Böylece client bu sınıfları direkt olarak kullanmayıp oluşturulan Facade sınıfı üzerinden kullanıyor.
 
-```java
+```C#
 class Program
 {
     static void Main(string[] args)
